@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>在线证书验证</title>
+<style>
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  img {
+    width: 100%; /* 宽度撑满整个页面 */
+    height: auto; /* 高度自动调整 */
+    display: block; /* 去除图片下方的间隙 */
+  }
+</style>
+</head>
+<body>
+
+<img src="images/202410070209056383228454571875001131.jpg" alt="图片1">
+<img src="images/202410070209056383228454571875001132.jpg" alt="图片2">
+<img src="images/202410070209056383228454571875001133.jpg" alt="图片3">
+
+</body>
+</html>
